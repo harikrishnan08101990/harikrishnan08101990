@@ -20,10 +20,7 @@
 
 <h3 align="left">🔨 Work I do:</h3>
 
-As a Technical Support Analyst, I help users with technical issues, troubleshoot problems, 
-maintain documentation, support hardware and software, provide remote assistance, ensure good customer service,
-escalate complex issues, conduct training sessions, prioritize security, manage software updates, 
-and monitor and report on system performance.
+Senior .NET Full Stack Developer with 12+ years of experience designing, developing, modernizing, deploying, and supporting enterprise applications using Microsoft technologies. Strong expertise in .NET Core, .NET Framework, C#, SQL Server, Angular, and Agile methodologies. Hands-on experience with Azure, Docker, Kubernetes, Azure Container Registry (ACR), Azure Kubernetes Service (AKS), and CI/CD through cloud deployment projects. Experienced in Retail, Banking, Insurance, and POS systems with proven success delivering scalable applications, production support, cloud migration, deployment automation, and technical leadership.
 
 
 <h3 align="left">🧑🏻‍💼 Professional Experience:</h3>
