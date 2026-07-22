@@ -7,7 +7,7 @@
 # 👉🏻 [<img alt="Static Badge" src="https://img.shields.io/badge/Click%20here%20for%20my%20Resume-darkcyan?style=for-the-badge&link=https%3A%2F%2Fvsandeepkumar809.github.io%2Fresume%2F">](https://github.com/harikrishnan08101990/Resume/)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vsandeepkumar809&style=for-the-badge" alt="sandeepkumar809" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnan08101990&style=for-the-badge" alt="harikrishnan08101990" /> </p>
 <img align="right" alt="Coding" width="320" src="https://matlensilver.com/wp-content/uploads/2021/07/IT-Staffing.gif">
 
 <h3 align="left">🙋🏻‍♂️ About me:</h3>
