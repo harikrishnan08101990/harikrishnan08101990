@@ -27,7 +27,7 @@ and monitor and report on system performance.
 
 
 <h3 align="left">🧑🏻‍💼 Professional Experience:</h3>
-<p align="left">  </a> <a href="https://www.wipro.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Tata_Consultancy_Services_old_logo.svg" alt="android" width="45" height="45"/> </a> &nbsp;  </a>  <a href="https://www.cognizant.com/in/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cognizant%27s_logo.svg/1920px-Cognizant%27s_logo.svg.png" alt="Cognizant" width="90" height="40"/> &nbsp; <a href="https://www.salesforce.com/in/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/07/HCLTech-Logo.png" alt="android" width="60" height="40"/> </a>  </a> <a href="https://support.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/28f2e866-7ace-421f-9ddf-a29a68501857" alt="android" width="60" height="40"/> </a>  </a>
+<p align="left">  </a> <a href="https://www.tcs.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Tata_Consultancy_Services_old_logo.svg" alt="android" width="45" height="45"/> </a> &nbsp;  </a>  <a href="https://www.cognizant.com/in/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cognizant%27s_logo.svg/1920px-Cognizant%27s_logo.svg.png" alt="Cognizant" width="90" height="40"/> &nbsp; <a href="https://www.hcltech.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/07/HCLTech-Logo.png" alt="android" width="60" height="40"/> </a>  </a> </a>
 </p>
 
 <h3 align="left">💡 Skills and Tools:</h3>
